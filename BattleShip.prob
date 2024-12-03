@@ -1,0 +1,3 @@
+parser_version('116f27e7eb51f509218253a845ec133cc2f8c434').
+classical_b('BattleShip',['D:\\IIT\\4th Year\\Formal Methods\\workspace\\BattelShipGame\\BattleShip.mch']).
+machine(abstract_machine(p5(1,5,1,8,4),machine(p3(5,1,8)),machine_header(p3(6,5,15),'BattleShip',[]),[])).
